@@ -1,10 +1,14 @@
--- Resource Metadata
-fx_version 'cerulean'
-games { 'rdr3', 'gta5' }
-author 'gmtotu'
-version '1.0.0'
+fx_version   'cerulean'
+lua54        'yes'
+game         'gta5'
 
--- What to run
+name         'gmto_hair'
+version      '1.2'
+author       'gmtotu'
+description  'gmto_hair | Hair Toggler
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
 client_scripts {
     'client/client.lua'
 }
@@ -17,4 +21,4 @@ shared_scripts {
     '@es_extended/imports.lua'
 }
 
-lua54 'yes'
+---------------------------------------------------------------------------------------------------------------------------------------------------------
