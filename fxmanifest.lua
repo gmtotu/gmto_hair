@@ -3,7 +3,7 @@ lua54        'yes'
 game         'gta5'
 
 name         'gmto_hair'
-version      '1.2'
+version      '1.0'
 author       'gmtotu'
 description  'gmto_hair | Hair Toggler
 
